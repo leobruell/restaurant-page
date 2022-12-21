@@ -21,7 +21,7 @@ function makeReviews(){
     addElement('div','reviews','.main')
     addElement('h2','title-reviews','.reviews',"Customer Reviews")
     addElement('div','review-1', '.reviews')
-    addElement('p', 'a-review', '.review-1',"I love Leo's bagels. It is without a doubt the best bagel store in New York! <br> -Customer 1")
+    addElement('p', 'a-review', '.review-1',"I love Leo's bagels. They are so good, and I love the sandwiches too! It is without a doubt the best bagel store in New York! <br> -Customer 1")
 
     addElement('div','review-2', '.reviews')
     addElement('p', 'a-review', '.review-2',"Leo's bagels is the only place I get bagels. I used to go to Absolute Bagels, but they are nothing compared to Leo's! <br> -Customer 2")
